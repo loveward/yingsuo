@@ -1,4 +1,4 @@
-ShadowsocksR
+COPY FROM ShadowsocksR
 ===========
 
 [![Build Status]][Travis CI]
