@@ -16,7 +16,7 @@ def get_webservertime(host):
     a= os.system(dat)
     if a == 256:
       print "设置时间失败，请用更高权限运行，系统时间必须为互联网时间才可以进行加密计算。"
-
+    print "其实我是傻逼，测试一下gitlab"
 get_webservertime('www.baidu.com')
 
 ###代码是从
